@@ -2,7 +2,8 @@
 
 This repo contains all the codes I am producing to learn how to apply, manipulate and implement RL approaches.
 
-References:
+Some references used:
+
 - https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf
 - https://www.davidsilver.uk/teaching/
 - https://gymnasium.farama.org/
